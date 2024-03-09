@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+    <path d="M32,32V464a16,16,0,0,0,16,16H480" style="fill:none;stroke:url(#paint1_linear);stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;opacity:0.8"/>
+    <rect x="96" y="224" width="80" height="192" rx="20" ry="20" style="fill:rgba(255, 219, 110, 0.15);stroke:url(#paint1_linear);stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;opacity:0.8"/>
+    <rect x="240" y="176" width="80" height="240" rx="20" ry="20" style="fill:rgba(255, 219, 110, 0.15);stroke:url(#paint1_linear);stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;opacity:0.8"/>
+    <rect x="383.64" y="112" width="80" height="304" rx="20" ry="20" style="fill:rgba(255, 219, 110, 0.15);stroke:url(#paint1_linear);stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;opacity:0.8"/>
+    <defs>
+        <linearGradient id="paint0_linear" x1="2.12767" y1="1" x2="30.7018" y2="17.5237" gradientUnits="userSpaceOnUse">
+            <stop offset="0.259336" stop-color="#FFDB6E"/>
+            <stop offset="1" stop-color="#FFBC5E"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="1.59976" y1="8.08974e-07" x2="31.8368" y2="17.6727" gradientUnits="userSpaceOnUse">
+            <stop offset="0.259336" stop-color="#FFDB6E"/>
+            <stop offset="1" stop-color="#FFBC5E"/>
+        </linearGradient>
+    </defs>
+</svg>
